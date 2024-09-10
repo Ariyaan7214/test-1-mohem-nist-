@@ -1,0 +1,9 @@
+
+Code
+class DigitalDevice():
+    def __init__(self):
+        self.nothing = '   '
+    def WhoAmI(self):
+        print('Digital Device.')
+    def WhatDoIDo(self):
+        print('Tech/Dig Work.')
